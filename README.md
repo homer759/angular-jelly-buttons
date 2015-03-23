@@ -1,1 +1,2 @@
-# angular-jelly-buttons
+# Angular Jelly Buttons (AJB)
+
