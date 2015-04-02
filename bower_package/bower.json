@@ -1,0 +1,27 @@
+{
+  "name": "angular-jelly-buttons",
+  "version": "0.0.1",
+  "homepage": "https://github.com/homer759/angular-jelly-buttons",
+  "authors": [
+    "Homer759 <joaofilipedallarosa@gmail.com>",
+    "Nixsm <nichsmm@gmail.com>"
+  ],
+  "description": "These are some kick-ass awesome cool fluid buttons for using in any of yours Angular based projects.",
+  "main": "jelly-button.js",
+  "keywords": [
+    "jelly",
+    "button",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3.15"
+  }
+}
