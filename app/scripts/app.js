@@ -15,7 +15,8 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'jellyButtons'
   ])
   .config(function ($routeProvider) {
     $routeProvider
